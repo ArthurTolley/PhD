@@ -1,0 +1,17 @@
+The scattered light project from 2016 has a lot of code that is probably terrible and out of date.
+In order to continue this work I need to update a lot of the code, write it all out properly and add to it.
+Alongside doing a lot of testing to see if it still works.
+
+Steps in no particular order:
+- Create a scattered light template bank
+- Gather enough testing data
+- Write complete functions with proper descriptions
+- Remove scattered light over a full O3a chunk
+- Demonstrate an improvement in sensitivity
+- PyCBC clustering of scattered light artefacts
+- Have it all properly implemented in PyCBC
+- Short duration scattered light artefacts?
+
+In general, a lot to consider and a lot to work on if this is a step that i'd like to go.
+There are a lot of things that might need to be added.
+A lot of the functions that I have written, there probably already exists a PyCBC function that does that thing but a lot better and a lot faster.
